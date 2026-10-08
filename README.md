@@ -2,7 +2,8 @@
 
 Welcome to the Mobile Sales & Performance overview! This interactive Power BI dashboard breaks down $8M+ in sales data to uncover what’s driving revenue, which brands yield the best margins, and how customers prefer to shop.
 
-![Mobile Sales & Performance Dashboard](./mobile_sales_dashboard.png)
+<img width="1328" height="743" alt="mobile_sales_dashboard" src="https://github.com/user-attachments/assets/5ccd376c-f4b4-4d64-bdd6-b318e1d8c69c" />
+
 
 ---
 
